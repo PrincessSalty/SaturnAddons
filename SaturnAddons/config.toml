@@ -1,0 +1,16 @@
+
+[dungeons]
+	leap_announce = true
+
+	[dungeons.start_dungeon]
+		enderpearls = true
+		open_potionbag = true
+
+	[dungeons.boss]
+		boss_spilts = true
+		rag_axe = true
+		time_to_core = true
+		melody_announce = true
+		terminal_time = true
+		runsplits = true
+

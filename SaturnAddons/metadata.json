@@ -1,0 +1,8 @@
+{
+  "name": "SaturnAddons",
+  "creator": "SalyOnsaturn",
+  "description": "No Cheat Trust",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["Vigilance, BloomCore, PogData"]
+}
